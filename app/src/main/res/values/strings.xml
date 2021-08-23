@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">ITSLIMON</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Ofertas Académicas</string>
+    <string name="menu_slideshow">Noticias</string>
+    <string name="tecnologia">TECNOLOGÍA SUPERIOR</string>
+    <string name="software">EN DESARROLLO DE SOFTWARE</string>
+    <string name="contabilidad">EN CONTABILIDAD</string>
+    <string name="btn">VER MÁS</string>
+    <string name="ofertas">OFERTAS ACADÉMICAS</string>
+    <string name="leyenda">Decide ser un profesional de éxito</string>
+    <string name="leyenda1">Educación Superior</string>
+    <string name="texto1">MISIÓN</string>
+    <string name="texto2">VISIÓN</string>
+    <string name="titulo">PRESENTACIÓN</string>
+    <string name="mision">Formar profesionales de excelencia con sólidos valores, comprometidos con la sociedad, con conocimientos científicos, prácticos y humanísticos contribuyendo al desarrollo sostenible del país.</string>
+    <string name="vision">Ser una Institución Tecnológica Superior acreditada, orientada a la investigación e innovación tecnológica; con una oferta académica pertinente; siendo un referente de educación superior de calidad a nivel provincial.</string>
+    <string name="bienvenida">El Instituto Superior Tecnológico Limón,
+    comprometido con el accionar académico
+    del cantón Limón Indanza, de la provincia
+    de Morona Santiago y del país en general,
+    da a conocer el documento de Planificación
+    Estratégica de Desarrollo Institucional para
+    el período 2019-2023; este instrumento es
+    el que enrumbará los caminos a seguir para
+    continuar generando desarrollo educativo y
+    social en nuestro entorno.
+    Nuestro compromiso es brindar una
+    educación de calidad, con igualdad de
+    oportunidades, a través del trabajo
+    mancomunado de autoridades, docentes,
+    estudiantes, ex alumnos e instituciones de
+    la localidad será el que aporte al desarrollo
+    de actividades que nos lleven al
+    cumplimiento de metas y objetivos de
+    interés común, a un futuro donde toda la
+    población esté preparada para afrontar los
+    retos que el devenir traiga consigo, pues, el
+    cambiante mundo hace que cada día
+    tengamos que adquirir nuevos
+    conocimientos, nuevas competencias, y
+    ese es nuestro propósito, preparar a las
+    nuevas generaciones de profesionales para
+    afrontar estos retos.</string>
+    <string name="title_objetivo">OBJETIVO</string>
+    <string name="title_descripcion">DESCRIPCIÓN DE LA CARRERA</string>
+    <string name="title_duracion">DURACIÓN DE LA CARRERA</string>
+    <string name="title_semestre">Número de semestres</string>
+    <string name="title_anios">Número de Años</string>
+    <string name="semestre">5 semestres</string>
+    <string name="anios">Dos años y medio</string>
+
+    <string name="objetivoDesarrollo">
+        Formar profesionales con liderazgo, responsabilidad social y ambiental,
+        con sólidos conocimientos científicos y tecnológicos en el Desarrollo de software orientada
+        a proveer soluciones informáticas para satisfacer los requerimientos de la Industria a
+        nivel Nacional e Internacional.
+    </string>
+
+    <string name="descrpcionDesarrollo">
+        Integrar profesionales líderes en desarrollo de software, con
+        responsabilidad social -empresarial y conocimientos teóricos – prácticos, para el desarrollo
+        de sistemas de información y de la implantación de aplicaciones grandes satisfaciendo las
+        necesidades informáticas de cualquiera empresa.
+    </string>
+
+    <string name="objetivoContabilidad">
+        Integrar profesionales en contabilidad, con responsabilidad social -empresarial y
+        conocimientos teóricos – prácticos, para registrar, controlar e informar la situación
+        financiera, de manera oportuna que permita a las organizaciones la toma de decisiones,
+        contribuyendo al cambio de la matriz productiva, aplicando estrategias investigativas e
+        innovadoras, con alto sentido crítico y ético, de conformidad con los objetivos del buen vivir.
+    </string>
+
+    <string name="descripcionContabilidad">
+        Esta carrera forma tecnólogos en contabilidad preparados para integrarse a instituciones
+        que demanden de manejo de gestión contable, manejo y administración de oficinas, asesoría
+        contable relacionados con rentas y el SRI.
+    </string>
+
+
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "ITSLIMON"
+include ':app'
