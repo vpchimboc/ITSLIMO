@@ -3,8 +3,12 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@+id/nav_home">
-
+    app:startDestination="@id/nav_bienvenida">
+    <fragment
+        android:id="@+id/nav_bienvenida"
+        android:name="tecnologico.limon.itslimon.ui.bienvenida.BienvenidaFragment"
+        android:label="@string/menu_bienvenida"
+        tools:layout="@layout/bienvenida_fragment" />
     <fragment
         android:id="@+id/nav_home"
         android:name="tecnologico.limon.itslimon.ui.home.HomeFragment"
@@ -22,4 +26,15 @@
         android:name="tecnologico.limon.itslimon.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_contactos"
+        android:name="tecnologico.limon.itslimon.ui.contactos.ContactosFragment"
+        android:label="@string/menu_contactos"
+        tools:layout="@layout/contactos_fragment" />
+    <fragment
+        android:id="@+id/nav_creditos"
+        android:name="tecnologico.limon.itslimon.ui.creditos.CreditosFragment"
+        android:label="@string/menu_creditos"
+        tools:layout="@layout/creditos_fragment" />
 </navigation>

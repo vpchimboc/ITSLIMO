@@ -10,6 +10,10 @@
     <string name="menu_home">Inicio</string>
     <string name="menu_gallery">Ofertas Académicas</string>
     <string name="menu_slideshow">Noticias</string>
+    <string name="menu_bienvenida">Bienvenida</string>
+    <string name="menu_contactos">Contactos</string>
+    <string name="menu_creditos">Creditos</string>
+
     <string name="tecnologia">TECNOLOGÍA SUPERIOR</string>
     <string name="software">EN DESARROLLO DE SOFTWARE</string>
     <string name="contabilidad">EN CONTABILIDAD</string>
@@ -84,6 +88,15 @@
         que demanden de manejo de gestión contable, manejo y administración de oficinas, asesoría
         contable relacionados con rentas y el SRI.
     </string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
 
 </resources>
